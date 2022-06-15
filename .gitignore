@@ -3,3 +3,6 @@
 
 # Ignore Gradle build output directory
 build
+app/bin/main/qr/code/GenerateQRCode.class
+app/bin/main/qr/code/QRCode.class
+app/bin/main/qr/code/GenerateQRCode.class

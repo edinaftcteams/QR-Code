@@ -28,7 +28,7 @@ public class QRCode {
     QRCodeReader qrCodeReader = new QRCodeReader();
     String encodedContent = qrCodeReader.readQRCode(file);
 
-    System.out.println(encodedContent);
+    System.out.println("QR Code: " + encodedContent);
   }
 
 }

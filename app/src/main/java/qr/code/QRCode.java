@@ -10,7 +10,6 @@ public class QRCode {
     // data that we want to store in the QR code
     String str = "Edina FTC robots QR Codes.";
     // path where we want to get QR Code
-//    String path = "G:\\Windows Folders\\Documents\\github\\rhsftc\\QR Code\\codes\\qr.png";
     String path = "qr.png";
     // Encoding charset to be used
     String charset = "UTF-8";

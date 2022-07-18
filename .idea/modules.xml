@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/QR_Code.iml" filepath="$PROJECT_DIR$/.idea/modules/QR_Code.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/QR_Code.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/QR_Code.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/QR_Code.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/QR_Code.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/QR_Code.app.test.iml" filepath="$PROJECT_DIR$/.idea/modules/app/QR_Code.app.test.iml" />
     </modules>
   </component>
 </project>
